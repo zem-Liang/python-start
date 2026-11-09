@@ -20,4 +20,9 @@
 python guess.py
 python score.py
 python wordcount.py
-
+```
+学习进度
+ 第 1 周：Python 基础语法、文件读写、Git 基本操作
+ 第 2 周：numpy 与 Linux 环境
+ 第 3 周：PyTorch 与第一个神经网络
+ 第 4 周：小项目实战
